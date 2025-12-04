@@ -164,13 +164,6 @@ matplotlib
 scikit-learn
 ```
 
-Install:
-```
-pip install -r requirements.txt
-```
-
----
-
 ## 🎯 Key Contributions
 
 ✔ Full RTL + ML workflow  
