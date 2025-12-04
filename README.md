@@ -175,23 +175,3 @@ scikit-learn
 ✔ Clean, scalable dataset structure  
 
 This project bridges **VLSI design** with **machine learning**, a highly valuable skillset for modern semiconductor engineering roles.
-
----
-
-## 📌 Future Work
-- Add 32-bit ALU version  
-- Add internal-node switching estimation  
-- Use XGBoost/LightGBM  
-- Export trained model for hardware IP integration  
-- Compare with PrimeTime PX (if accessible)  
-
----
-
-## 🙌 Author
-
-**Soma Sai**  
-Electronics + VLSI + Machine Learning  
-Verilog • RTL • ML for Hardware • Low-Power Design
-
----
-
