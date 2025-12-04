@@ -146,7 +146,6 @@ rtl/            # All Verilog RTL files
 tb/             # Testbenches that generate CSV datasets
 data/           # Output CSVs from simulation
 ml/             # ML notebook, training scripts, plots
-docs/           # Architecture notes & analysis
 ```
 
 ---
